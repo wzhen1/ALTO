@@ -61,3 +61,6 @@ For evaluation of the models, we provide the script `eval_meshes.py`. You can ru
 python eval_meshes.py CONFIG.yaml
 ```
 The script takes the meshes generated in the previous step and evaluates them using a standardized protocol. The output will be written to `.pkl/.csv` files in the corresponding generation folder which can be processed using [pandas](https://pandas.pydata.org/).
+
+### Acknowledgement 
+The code is largely based on [ConvONet](https://github.com/autonomousvision/convolutional_occupancy_networks). Many thanks to the authors for opensourcing the codebase. 
