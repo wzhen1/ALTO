@@ -1,5 +1,23 @@
 # ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction
+[**Paper**](https://arxiv.org/abs/2212.04096) | [**Project Page**](https://visual.ee.ucla.edu/alto.htm/) <br>
 
+<div style="text-align: center">
+<img src="media/pipeline.png" width="800"/>
+</div>
+
+This repository contains the implementation of the paper:
+
+ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction
+
+If you find our code or paper useful, please consider citing
+```bibtex
+@article{wang2022alto,
+  title={ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction},
+  author={Wang, Zhen and Zhou, Shijie and Park, Jeong Joon and Paschalidou, Despoina and You, Suya and Wetzstein, Gordon and Guibas, Leonidas and Kadambi, Achuta},
+  journal={arXiv preprint arXiv:2212.04096},
+  year={2022} 
+  }
+```
 
 ## Installation
 You can create an anaconda environment called `alto` using
