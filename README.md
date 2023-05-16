@@ -11,12 +11,12 @@ ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction
 
 If you find our code or paper useful, please consider citing
 ```bibtex
-@article{wang2022alto,
-  title={ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction},
-  author={Wang, Zhen and Zhou, Shijie and Park, Jeong Joon and Paschalidou, Despoina and You, Suya and Wetzstein, Gordon and Guibas, Leonidas and Kadambi, Achuta},
-  journal={arXiv preprint arXiv:2212.04096},
-  year={2022} 
-  }
+@inproceedings{Wang2023CVPR,
+    title = {ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction},
+    author = {Wang, Zhen and Zhou, Shijie and Park, Jeong Joon and Paschalidou, Despoina and You, Suya and Wetzstein, Gordon and Guibas, Leonidas and Kadambi, Achuta},
+    booktitle = {Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+    year = {2023}
+}
 ```
 
 ## Installation
