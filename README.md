@@ -82,3 +82,10 @@ The script takes the meshes generated in the previous step and evaluates them us
 
 ### Acknowledgement 
 The code is largely based on [ConvONet](https://github.com/autonomousvision/convolutional_occupancy_networks). Many thanks to the authors for opensourcing the codebase. 
+
+---
+## Pretrained models
+
+[ShapeNet 3k](https://drive.google.com/file/d/17AHuISu1f8xWQFevQ2K1lWE1A4LlmsI2/view?usp=share_link)
+
+[Synthetic Room 10k](https://drive.google.com/file/d/1cffLRxa6mGZlMuUwTEKrMJIxyfC7MDJu/view?usp=share_link)
